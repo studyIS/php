@@ -2,7 +2,7 @@
 <html>
 <meta charset="utf-8">
 <head>
-	<title> Aula GitHyb </title>
+	<title> Seçap 2, Aula 12</title>
 </head>
 <body>
 
