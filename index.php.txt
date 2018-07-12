@@ -2,16 +2,14 @@
 <html>
 <meta charset="utf-8">
 <head>
-	<title> Seçap 2, Aula 12</title>
+	<title> Seçao 2, Aula 12</title>
 </head>
 <body>
 
 	<form>
 		<?php 
-		echo "Produto:";
-		echo "Tipo:";
+		echo "studyIS";
 		
-		echo "Preço";
 		?>
 
 	</form>
